@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=3V3AHI Pin=J5-3
+Added Pin To Net: NetName=3V3AHI Pin=Q3-2
+Added Pin To Net: NetName=3V3AHI Pin=R1-1
+Added Net: Name=3V3AHI
+Added Pin To Net: NetName=3V3ALI Pin=J5-4
+Added Pin To Net: NetName=3V3ALI Pin=Q6-2
+Added Pin To Net: NetName=3V3ALI Pin=R3-1
+Added Net: Name=3V3ALI
+Added Pin To Net: NetName=3V3BHI Pin=J5-1
+Added Pin To Net: NetName=3V3BHI Pin=Q7-2
+Added Pin To Net: NetName=3V3BHI Pin=R5-1
+Added Net: Name=3V3BHI
+Added Pin To Net: NetName=3V3BLI Pin=J5-2
+Added Pin To Net: NetName=3V3BLI Pin=Q8-2
+Added Pin To Net: NetName=3V3BLI Pin=R11-1
+Added Net: Name=3V3BLI

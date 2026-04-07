@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=ALI Pin=J5-2
+Removed Pin From Net: NetName=BHI Pin=J5-3
+Removed Pin From Net: NetName=ALI Pin=Q6-2
+Removed Pin From Net: NetName=BHI Pin=Q7-2
+Removed Pin From Net: NetName=ALI Pin=R3-1
+Removed Pin From Net: NetName=BHI Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_2 Pin=Q6-2
+Added Pin To Net: NetName=NetJ5_2 Pin=Q7-2
+Added Pin To Net: NetName=NetJ5_2 Pin=R3-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Net: Name=NetJ5_2

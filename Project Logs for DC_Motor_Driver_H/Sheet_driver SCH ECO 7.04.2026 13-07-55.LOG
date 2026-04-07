@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J4 Old Footprint=PHOE-1729128-2_V New Footprint=FP-B2P-VH-FB-B_LF_SN-MFG
+Change Component Comment: Designator=J4 Old Comment=1729128 New Comment=B2P-VH-FB-B(LF)(SN)
+Change Pin Designator/Name:  Old Designator=J4-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=J4-2 Old Name=2 New Designator =1 New Name=1
